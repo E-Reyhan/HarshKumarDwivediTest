@@ -1,0 +1,1 @@
+Create an HTML webpage which calculates the BMI of your body. Use JavaScript to validate the calculation.
